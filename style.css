@@ -1,11 +1,36 @@
 .aqua{
-	color:#356abf;
+	color:#356abf !important;
 }
-
-
 
 .jumbotron{
     background-image: url("background.png");
 	background-attachment: fixed;
 	
+}
+.navbar-brand{
+	padding-top:8px;
+}
+.page-header{
+	text-align:center;
+}
+.about{
+	background-image:url("background.png") !important ;
+	background-attachment:fixed;
+	
+}
+.center{
+	text-align:center;
+}
+.padding.img-circle{
+	height:390px;
+    background-color:#FFFFFF;
+    margin-top:60px;
+	margin-bottom:40px;
+    overflow: hidden;
+}
+.panel.panel-info{
+	margin-bottom:50px;
+}
+.row.padding{
+	margin-bottom:50px;
 }
